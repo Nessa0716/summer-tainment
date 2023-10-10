@@ -1,7 +1,26 @@
 body{
-background-color: rgb(255, 167, 116);
+background-color: rgb(255, 213, 208);
+font-family: 'Lora', serif;
 }
 
 h1 {
     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;;
 }
+h3 {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;;
+}
+
+.carousel {
+    width:700px;
+    height:700px;
+    margin: auto;
+  }
+
+  .container{
+    background-color: aliceblue;
+  }
+
